@@ -56,7 +56,7 @@ ssmmmssss
 
 Output:
 
-mongoose
+mongooses
 tie
 tie
 snakes
